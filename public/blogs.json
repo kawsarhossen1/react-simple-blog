@@ -31,20 +31,20 @@
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co.com/Vt1Jnnr/blog-372771-1280.jpg",
+    "cover": "https://i.imghippo.com/files/Gc6969Sv.png",
     "title": "Introduction to React.js for Beginners",
     "author": "Emily Davis",
-    "author_img": "https://i.imghippo.com/files/Cuw5195DE.jpg",
+    "author_img": "https://i.imghippo.com/files/Ji3172LdI.jpg",
     "posted_date": "2025-01-02",
     "reading_time": "8 min read",
     "hashtag": ["#React", "#JavaScript", "#Frontend"]
   },
   {
     "id": 5,
-    "cover": "https://i.ibb.co.com/2KNgBb3/blog-684748-1280.jpg",
+    "cover": "https://i.imghippo.com/files/W3507Zd.png",
     "title": "Exploring the World of AI and Machine Learning",
     "author": "Michael Brown",
-    "author_img": "https://via.placeholder.com/100x100.png?text=Michael",
+    "author_img": "https://i.imghippo.com/files/KjWi1656AqI.png",
     "posted_date": "2025-01-01",
     "reading_time": "12 min read",
     "hashtag": ["#AI", "#MachineLearning", "#Technology"]
